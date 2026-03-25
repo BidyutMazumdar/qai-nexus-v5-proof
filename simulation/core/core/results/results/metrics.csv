@@ -1,0 +1,7 @@
+metric,before,after,improvement
+energy,61,79,18
+throughput,10420,12847,23.3
+latency,238,184,-22.7
+stability,68,91,23
+idle,27,11,-59
+cost,1.00,0.78,-22
