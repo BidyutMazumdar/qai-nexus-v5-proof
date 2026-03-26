@@ -1,5 +1,0 @@
-Execution Timestamp: 2026-03-26
-
-Before: 3.84
-After: 4.62
-Gain %: 20.3
